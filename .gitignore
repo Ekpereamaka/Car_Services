@@ -1,0 +1,6 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/Car_Services/v16/bin/Debug/netcoreapp3.1
+/.vs/Car_Services/v16/obj
